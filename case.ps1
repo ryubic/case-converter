@@ -1,1 +1,1 @@
-node ".\case-converter.js" @args
+node "$PSScriptRoot\case-converter.js" @args
